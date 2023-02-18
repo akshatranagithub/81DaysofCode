@@ -1,0 +1,229 @@
+1676693800834	geckodriver	INFO	Listening on 127.0.0.1:53204
+1676693803886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileL0Jdvf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676693804366	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676693804372	Marionette	INFO	Listening on port 53213
+Read port: 53213
+WebDriver BiDi listening on ws://127.0.0.1:53205
+1676693804517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileL0Jdvf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53205/devtools/browser/bce331d9-7c7a-4138-80dd-151f25be8086
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676693950795	Marionette	INFO	Stopped listening on port 53211676693951179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilenErAP0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676693951529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676693951533	Marionette	INFO	Listening on port 53272
+Read port: 53272
+WebDriver BiDi listening on ws://127.0.0.1:53265
+1676693951685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilenErAP0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53265/devtools/browser/6465f7df-172d-417d-bc6f-ed4b2edf1716
+1676693969780	Marionette	INFO	Stopped listening on port 53272
+Dynamically enable window occlusion 1
+1676694040011	geckodriver	INFO	Listening on 127.0.0.1:53344
+1676694043068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilecfb2us"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694043625	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694043629	Marionette	INFO	Listening on port 53352
+Read port: 53352
+WebDriver BiDi listening on ws://127.0.0.1:53345
+1676694043785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilecfb2us\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53345/devtools/browser/28fa3eb6-5e76-404b-a23a-945540ceca46
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 2226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e152db010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 3239 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb8a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fcef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba2bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cad340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfd560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfdef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfd560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfdef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fbac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fcde0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e0b304de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac9b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be6460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be6460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13bf5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfdef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13bf5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fc890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfd450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfdef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13bf5340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e129299a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fcef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fcef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e0b304780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e129299a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14dfd780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e11fb6780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb9b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba2020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba2020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba3230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e11fb6ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e12929780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e1e711de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e11fb6ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba2df0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13816cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13bf5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e11fb6ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba2020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14ba3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e14cac570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e13be7ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fb130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 9276, MediaDecoderStateMachine #1] WARNING: 14e138fbdf0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1676694091176	Marionette	INFO	Stopped listening on port 53352
+Dynamically enable window occlusion 1
+1676694187907	geckodriver	INFO	Listening on 127.0.0.1:53517
+1676694190967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileNvhI80"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694191562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694191566	Marionette	INFO	Listening on port 53527
+Read port: 53527
+WebDriver BiDi listening on ws://127.0.0.1:53518
+1676694191759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileNvhI80\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53518/devtools/browser/a85841de-05d0-4c20-9f88-61129f3c466c
+1676694258363	Marionette	INFO	Stopped listening on port 53527
+Dynamically enable window occlusion 1
+1676694290165	geckodriver	INFO	Listening on 127.0.0.1:53627
+1676694298811	geckodriver	INFO	Listening on 127.0.0.1:53636
+1676694301836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilejfzv5T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694302452	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694302456	Marionette	INFO	Listening on port 53646
+Read port: 53646
+WebDriver BiDi listening on ws://127.0.0.1:53637
+1676694302597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofilejfzv5T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53637/devtools/browser/920a7b66-8937-492c-aaa4-2b78768a3a9d
+1676694308892	Marionette	INFO	Stopped listening on port 53646
+Dynamically enable window occlusion 1
+1676694316557	geckodriver	INFO	Listening on 127.0.0.1:53694
+1676694319636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofile9cUNDL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694320219	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694320223	Marionette	INFO	Listening on port 53704
+Read port: 53704
+WebDriver BiDi listening on ws://127.0.0.1:53695
+1676694320382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofile9cUNDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53695/devtools/browser/f77d0f41-9577-4f6c-b409-6e62ed98a97d
+1676694327593	Marionette	INFO	Stopped listening on port 53704
+Dynamically enable window occlusion 1
+1676694349286	geckodriver	INFO	Listening on 127.0.0.1:53762
+1676694352357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileW2izGL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694352917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694352921	Marionette	INFO	Listening on port 53772
+Read port: 53772
+WebDriver BiDi listening on ws://127.0.0.1:53763
+1676694353076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileW2izGL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53763/devtools/browser/bfc3f088-0ee6-445d-9485-b5f9a4a6a6d3
+1676694363685	Marionette	INFO	Stopped listening on port 53772
+Dynamically enable window occlusion 1
+1676694425958	geckodriver	INFO	Listening on 127.0.0.1:53852
+1676694429014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofile1ZJeEZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694429400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694429404	Marionette	INFO	Listening on port 53862
+Read port: 53862
+WebDriver BiDi listening on ws://127.0.0.1:53853
+1676694429543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofile1ZJeEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53853/devtools/browser/51943bd5-e551-4226-8e5f-6b76fb45a131
+1676694495521	Marionette	INFO	Stopped listening on port 53861676694496006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileXWESeS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676694496349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676694496354	Marionette	INFO	Listening on port 53947
+Read port: 53947
+WebDriver BiDi listening on ws://127.0.0.1:53939
+1676694496551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aksha\\AppData\\Local\\Temp\\rust_mozprofileXWESeS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53939/devtools/browser/24cea76a-ccc8-4b5b-a72d-a958f2b8c00c
+1676694541754	Marionette	INFO	Stopped listening on port 53947
+Dynamically enable window occlusion 1
