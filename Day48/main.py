@@ -55,7 +55,6 @@ while time.time() < end_time:
     # check for upgrades after the set about of time
     if time.time() > check_time:
         buy_upgrade()
-        # time for the next the next check
         check_time += CHECK_INTERVAL
 
 cps = driver.find_element(By.ID, "cps").text
