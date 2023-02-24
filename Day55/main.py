@@ -16,7 +16,7 @@ def guess(guess_number):
         return "<h1 style='color:red'><strong>Too Low, try again!<strong></h1>" \
                '<img src="https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif"></img>'
     elif guess_number > number:
-        return "<h1 style='color:voilet'><strong>Too High, try again!<strong></h1>" \
+        return "<h1 style='color:violet'><strong>Too High, try again!<strong></h1>" \
                '<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"></img>'
     else:
         return "<h1 style='color:green'><strong>You found me!!!<strong></h1>" \
