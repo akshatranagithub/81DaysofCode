@@ -33,7 +33,6 @@ def about():
 def contact():
     if request.method == "POST":
         data = request.form
-        data = request.form
         send_email(data["name"], data["email"], data["phone"], data["message"])
         return render_template("contact.html", msg_sent=True)
     return render_template("contact.html", msg_sent=False)
